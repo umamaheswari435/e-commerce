@@ -1,1 +1,2 @@
-# e-commerce
+# E-Commerce Website
+     The e-commerce website project is a full-stack web development project that involves creating a responsive website using HTML, CSS, and JavaScript. The website includes several pages, such as a homepage, product page, product category page ,sign-up page, login page, cart page. The project is a great learning, as it allows to practice skills while creating a fully functional and responsive website which is clickable from one page to another webpage which is linked one after the other html pages. This project is a very different projecyt from all other projects as it gives a full experience on how e-commerce websites are linked to one anothe
